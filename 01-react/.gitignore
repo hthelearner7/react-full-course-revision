@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# not pushing assets folder
+src/03-react-essentials/assets
